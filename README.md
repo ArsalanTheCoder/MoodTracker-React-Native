@@ -9,11 +9,9 @@
 
 ## 📱 App Demo
 ### 🎬 Video Walkthrough
-Click the link below to watch the full presentation and code analysis:
+Click the video below to watch the full presentation and code analysis:
 
-**[▶️ Watch the Demo Video Here](Uploading MoodTracker's Vide.mp4…)**
-
-
+https://github.com/user-attachments/assets/0385e130-d273-42a7-8d94-f1ee04007db7
 
 ---
 
