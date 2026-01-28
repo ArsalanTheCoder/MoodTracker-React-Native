@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "moodtracker-",
+    "slug": "snack-cf0a89c1-ec37-4c48-af26-ed3cc6db14f0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F172A"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.mohaamad.snackcf0a89c1ec374c48af26ed3cc6db14f0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "An app that tracks your daily mood.",
+    "extra": {
+      "eas": {
+        "projectId": "45b40338-00f5-41ed-a94e-f3c1af169c1c"
+      }
+    }
+  }
+}

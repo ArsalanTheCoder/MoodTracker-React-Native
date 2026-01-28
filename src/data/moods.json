@@ -1,0 +1,28 @@
+{
+  "moods": [
+    {
+      "id": "m1",
+      "date": "16-03-2025",
+      "name": "Calm",
+      "intensity": 2,
+      "note": "Nice walk.",
+      "tags": ["outdoors", "evening"]
+    },
+    {
+      "id": "m2",
+      "date": "25-09-2025",
+      "name": "Stressed",
+      "intensity": 4,
+      "note": "Assignment pressure.",
+      "tags": ["work", "deadline"]
+    },
+    {
+      "id": "m3",
+      "date": "10-10-2025",
+      "name": "Excited",
+      "intensity": 5,
+      "note": "Going out with friends.",
+      "tags": ["social", "bar"]
+    }
+  ]
+}
