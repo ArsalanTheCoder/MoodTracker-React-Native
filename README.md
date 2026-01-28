@@ -1,17 +1,19 @@
 # 🧠 MoodTracker
-> **Your personal companion for emotional well-being and daily mindfulness.**
+> **A robust, cloud-connected companion for emotional well-being.**
 
-[![React Native](https://img.shields.io/badge/React_Native-v0.74-blue.svg)](https://reactnative.dev/)
-[![Expo](https://img.shields.io/badge/Expo-SDK_51-black.svg)](https://expo.dev/)
-[![Storage](https://img.shields.io/badge/Storage-AsyncStorage-orange.svg)]()
+[![React Native](https://img.shields.io/badge/React_Native-CLI-blue.svg)](https://reactnative.dev/)
+[![Firebase](https://img.shields.io/badge/Backend-Firebase_Firestore-orange.svg)](https://firebase.google.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 ---
 
 ## 📱 App Demo
 ### 🎬 Video Walkthrough
-Click the link below to watch the full 6-minute presentation and code analysis:
-**[▶️ Watch the Demo Video Here](PASTE_YOUR_YOUTUBE_OR_DRIVE_LINK_HERE)**
+Click the link below to watch the full presentation and code analysis:
+
+**[▶️ Watch the Demo Video Here](Uploading MoodTracker's Vide.mp4…)**
+
+
 
 ---
 
@@ -22,14 +24,14 @@ Click the link below to watch the full 6-minute presentation and code analysis:
 * **Rich Details:** Add personal notes to every entry to remember *why* you felt that way.
 * **Date & Time:** Automatic timestamps ensure your history is always accurate.
 
+### ☁️ **Real-Time Cloud Sync**
+* **Firebase Integration:** All data is instantly synced to Google Firestore.
+* **Multi-Device Support:** Access your mood history from any device.
+* **Live Updates:** Data updates in real-time without needing to refresh.
+
 ### 📊 **Visual Analytics**
 * **Interactive Charts:** Visualize your emotional trends over time.
 * **Insightful Data:** Identify patterns in your mood to improve your mental health.
-
-### 🔒 **Privacy First (Offline)**
-* **100% Local Storage:** All data is stored securely on your device using `AsyncStorage`.
-* **No Internet Required:** The app works perfectly offline.
-* **Data Persistence:** Your history is saved even if you close the app.
 
 ### 🎨 **Modern UI/UX**
 * **Clean Design:** A calming, minimalist interface designed for mindfulness.
@@ -38,26 +40,20 @@ Click the link below to watch the full 6-minute presentation and code analysis:
 
 ---
 
-## 📸 App Screenshots
+## 📸 App Interface
 
-| **Welcome Screen** | **Mood Selection** | **Analytics Dashboard** |
-|:---:|:---:|:---:|
-| <img src="./assets/screenshots/welcome.png" width="200" /> | <img src="./assets/screenshots/add_mood.png" width="200" /> | <img src="./assets/screenshots/analytics.png" width="200" /> |
+Here is a complete overview of the application's interface and design evolution:
 
-| **History List** | **Mood Details** | **Onboarding** |
-|:---:|:---:|:---:|
-| <img src="./assets/screenshots/list.png" width="200" /> | <img src="./assets/screenshots/detail.png" width="200" /> | <img src="./assets/screenshots/splash.png" width="200" /> |
-
-*(Note: These images are placeholders. Please add your screenshots to an `assets/screenshots` folder in your project or update the links!)*
+<img width="100%" alt="New Version of MoodTracker" src="https://github.com/user-attachments/assets/26dc4342-3aaa-4244-b1d9-fdb02003cafe" />
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Framework:** React Native (Expo SDK 51)
+* **Framework:** React Native CLI (0.74+)
+* **Backend:** Firebase Firestore (NoSQL Cloud Database)
 * **Language:** JavaScript (ES6+)
-* **Navigation:** React Navigation (Stack)
-* **Storage:** AsyncStorage (Local Persistence)
+* **Navigation:** React Navigation (Native Stack)
 * **Components:** React Native Paper, Vector Icons
 * **Charts:** React Native Chart Kit
 
